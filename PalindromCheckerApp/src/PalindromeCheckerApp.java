@@ -1,9 +1,7 @@
 //version 4.0
-//author akhilmattay
 //use case4: Character Array Based Palindrome Check
 import java.util.*;
 //version 6.0
-//author akhilmattay
 //useCase 6:Queue + Stack Based Palindrome Check
 
 public class PalindromeCheckerApp {
